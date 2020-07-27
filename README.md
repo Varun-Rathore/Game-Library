@@ -1,2 +1,2 @@
 # Game-Library
-Game Library containing the concepts of game search tree
+A simple Game Library containing the concepts of game search tree
